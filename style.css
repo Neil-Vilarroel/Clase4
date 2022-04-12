@@ -1,0 +1,22 @@
+body{
+    background-image: url(perrito.jpg);
+    background-repeat: no-repeat;
+    background-size: 100rem;
+    height: auto;
+}
+.principal {
+    font-size: 20px;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+
+}
+.video {
+    display: flex;
+
+}
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+  
+}
